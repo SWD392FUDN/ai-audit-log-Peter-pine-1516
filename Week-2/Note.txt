@@ -1,0 +1,1 @@
+Đôi khi mọi thứ không cần phải nhét vào include hoặc extend cho phức tạp, có thể tách riêng nó thành một use case bình thường
